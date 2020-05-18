@@ -32,7 +32,7 @@ THEN it brings me to the article source
 
 ### APIs Used:
 
-* [GeoJS](https://www.geojs.io/)
+* [GeoJS.io](https://www.geojs.io/)
 
 * [GNews.io](https://gnews.io/)
 
